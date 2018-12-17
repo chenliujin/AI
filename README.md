@@ -105,3 +105,6 @@
 
 # ETL
 * datastage
+
+# 面试题
+* http://www.sohu.com/a/282027875_473283
